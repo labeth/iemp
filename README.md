@@ -10,4 +10,8 @@ I don't know the license of the original source (found in inital-commit).
 
 When and if i do updates to the code you will be able to find them here.
 
-Can't find the correct version of the Nokia 3310 display driver.
+Can't find the correct version of the Nokia 3310 display driver. Added the best one i could find from an other of the other projects from the same manufacturer.
+
+Maybe change to https://github.com/imclab/nokia_3310_lcd or https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library
+
+Make sure to use something like this https://www.hackster.io/rayburne/avr-firmware-duplicator-115d8f to backup the original image.
